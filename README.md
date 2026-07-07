@@ -127,13 +127,13 @@ Settings → Wi-Fi → tap (i) next to network → Configure DNS → Manual → 
 ## Screenshots
 
 ### Pi-hole Dashboard
-![Pi-hole Dashboard](screenshots/pihole-dashboard.jpg)
+![Pi-hole Dashboard](pihole-dashboard.jpg)
 
 ### DietPi Terminal (Post-Install)
-![DietPi Terminal](screenshots/dietpi-terminal.png)
+![DietPi Terminal](dietpi-terminal.png)
 
 ### VirtualBox Setup
-![VirtualBox Setup](screenshots/virtualbox-setup.jpg)
+![VirtualBox Setup](virtualbox-setup.jpg)
 
 ---
 
